@@ -39,3 +39,7 @@ Luego se modifica el [script](ejercicio3/Collectable.cs) del apartado anterior p
 
 ### Prueba
 ![gif](ejercicio3/gif.gif)
+
+# APK
+
+[Apk](GOBLIN.apk)
